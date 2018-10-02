@@ -1,1 +1,3 @@
-# term-config
+# shell-config
+
+Store shell properties
